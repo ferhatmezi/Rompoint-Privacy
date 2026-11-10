@@ -52,4 +52,4 @@ L'application s'adresse aux candidats au permis de conduire, âgés de 16 ans et
 Cette politique peut évoluer, par exemple si un nouveau service est ajouté. La date en haut de la page indique la dernière mise à jour.
 
 ## Contact
-Pour toute question sur cette politique : [adresse de contact à compléter par l'éditeur].
+Pour toute question sur cette politique : meziferhat15@gmail.com.
